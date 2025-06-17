@@ -53,4 +53,4 @@ Una vez se haya hecho el deploy se pueden realizar las siguientes acciones:
    Retorna cantidad de extracciones hechos a la cuenta
 9. withdrawLimit
    Retorna el withdrawLimit del contrato
-Direccion del contrato deployed en Remix: 0x520ea542a1c8e994e2784169693e315248c39e30
+Direccion del contrato deployed en Remix: 0x6c7FD2EDbB15e5537779865d7eC0A0371A90D77A
