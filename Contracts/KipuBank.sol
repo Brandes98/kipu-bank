@@ -7,7 +7,7 @@ pragma solidity ^0.8.x;
 /// @author Kipu/// @notice Se tomo como referencia el contrato de BilleteraSimple.sol
 contract KipuBank {
     /// @notice Límite fijo de retiro por transacción: 3 ETH
-    uint256 public ummutable WithdrawLimit = 3 ether;
+    uint256 public immutable WithdrawLimit = 3 ether;
 
     /// @notice Límite global de depósitos permitidos en el banco (en wei)
     uint256 public bankCap;
